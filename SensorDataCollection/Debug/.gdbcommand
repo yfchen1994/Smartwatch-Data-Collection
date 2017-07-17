@@ -1,0 +1,4 @@
+set sysroot /home/yfchen/tizen-studio/tools/smart-build-interface/../../platforms/tizen-2.3.2/wearable/rootstraps/wearable-2.3.2-device.core
+set debug-file-directory /home/yfchen/tizen-studio/tools/smart-build-interface/../../platforms/tizen-2.3.2/wearable/rootstraps/wearable-2.3.2-device.core/usr/lib/debug
+set solib-search-path /home/yfchen/workspace/SensorDataCollection/Debug
+dir /home/yfchen/tizen-studio/tools/smart-build-interface/../../platforms/tizen-2.3.2/wearable/rootstraps/wearable-2.3.2-device.core/usr/src/debug
